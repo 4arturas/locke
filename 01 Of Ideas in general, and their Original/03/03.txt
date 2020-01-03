@@ -1,0 +1,11 @@
+﻿<volume level="100"/><voice required="Name=IVONA 2 Emma OEM"><rate absspeed="-4">The objects of sensation one source of ideas.<silence msec="500"/></rate></voice>
+Objektai jutimų vienas šaltinis idėjų.
+
+<volume level="100"/><voice required="Name=IVONA 2 Brian OEM"><rate absspeed="-4">First, our Senses, conversant about particular sensible objects, do convey into the mind several distinct perceptions of things, according to those various ways wherein those objects do affect them.<silence msec="500"/></rate></voice> 
+Pirma, mūsų jutimai, susipažinę apie atskirus juntamus objektus, daro perteikia į intelektą keletą skirtingų suvokimų daiktų, pagal tuos skirtingus kelius kur tie objektai veikia juos.
+
+<volume level="100"/><voice required="Name=IVONA 2 Brian OEM"><rate absspeed="-4">And thus we come by those ideas we have of white, heat, soft, hard, bitter, and all those which we call sensible qualities; which when I say the senses convey into the mind, I mean, they from external objects convey into the mind what produces there those perceptions.<silence msec="500"/></rate></voice> 
+Ir taip me einame pagal tas idėjas mes turime balto, karšto, minkšto, kieto kartaus, ir visas tas kurias mes vadiname jutiminėmis kokybėmis; kurias kada aš sakau jutimai perteikia į intelektą, aš turiu galvoje, jie iš išorinių objektų perteikia į intelektą kas sukelia tenais tuos suvokimus.
+
+<volume level="100"/><voice required="Name=IVONA 2 Brian OEM"><rate absspeed="-4">This great source of most of the ideas we have, depending wholly upon our senses, and derived by them to the understanding, I call SENSATION.<silence msec="500"/></rate></voice>
+Šis didelis šaltinis daugumos idėjų mes turime, priklausantis visiškai pagal mūsų jutimus, ir kilęs per juos į supratimą, aš vadinu jutimu.

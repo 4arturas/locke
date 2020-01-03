@@ -1,0 +1,16 @@
+﻿
+<volume level="100"/><voice required="Name=IVONA 2 Brian OEM"><rate absspeed="-4">1. Idea is the object of thinking.<silence msec="500"/></rate></voice>
+
+Pirma. Idėja yra mastymo objektas.
+
+<volume level="100"/><voice required="Name=IVONA 2 Brian OEM"><rate absspeed="-4">Every man being conscious to himself that he thinks; and that which his mind is applied about whilst thinking being the ideas that are there, it is past doubt that men have in their minds several ideas,- such as are those expressed by the words hardness, motion, drunkenness, and others: it is in the first place then to be inquired, How he comes by them?<silence msec="500"/></rate></voice>
+
+Kiekvienas žmogus esantis suvokiantis sau kad jis masto ir tai kuriuo jo intelektas taikomas apie tarpu mastantis esančios idėjos kurios yra tenais, tai yra praėję abejoti kad žmonės turi jų intelektuose kai kurias idėjas, tokias kaip yra tos išreikštos pagal žodžius kietumas, judėjimas girtumas ir kitos, tai yra pirmoje vitoje tada būti išsiaiškinta, kaip jis prieina prie jų?
+
+<volume level="100"/><voice required="Name=IVONA 2 Brian OEM"><rate absspeed="-4">I know it is a received doctrine, that men have native ideas, and original characters, stamped upon their minds in their very first being.<silence msec="500"/></rate></voice>
+
+Aš žinau tai yra priimta doktrina, kad žmonės turi įgimtas idėjas, ir pirmapradžius ženklus, įspaustus į jų intelektus jų pačiame pirmame buvime.
+
+<volume level="100"/><voice required="Name=IVONA 2 Brian OEM"><rate absspeed="-4">This opinion I have at large examined already; and, I suppose what I have said in the foregoing Book will be much more easily admitted, when I have shown whence the understanding may get all the ideas it has; and by what ways and degrees they may come into the mind;- for which I shall appeal to every one's own observation and experience.<silence msec="500"/></rate></voice>
+
+Šią nuomonę aš turiu plačiai ištyrinėjęs jau; ir, aš manau ką aš esu pasakęs ankstesnėje knygoje bus žymiai daugiau lengviau pripažinta, kada aš turiu parodęs iš kur supratimas gali gauti visas idėjas jis turi; ir kokiais keliais ir laipsniais jos gali ateiti į intelektą; dėl kurio aš kreipiuosi į kiekvieno stebėjimą ir patirtį.

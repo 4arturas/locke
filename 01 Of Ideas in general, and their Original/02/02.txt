@@ -1,0 +1,4 @@
+﻿<volume level="100"/><voice required="Name=IVONA 2 Emma OEM"><rate absspeed="-4">All ideas come from sensation or reflection.<silence msec="500"/></rate></voice>
+Visos idėjos ateina iš jutimų arba refleksijos.
+
+<volume level="100"/><voice required="Name=IVONA 2 Brian OEM"><rate absspeed="-4">Let us then suppose the mind to be, as we say, white paper, void of all characters, without any ideas, How comes it to be furnished?<silence msec="500"/></rate></voice>

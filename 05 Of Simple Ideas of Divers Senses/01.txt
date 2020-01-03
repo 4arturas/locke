@@ -1,0 +1,11 @@
+﻿<volume level="100"/><voice required="Name=IVONA 2 Emma OEM"><rate absspeed="-4">Ideas received both by seeing and touching.<silence msec="500"/></rate></voice>
+Idėjos gaunamos dvejopai, per matymą ir lietimą.
+
+<volume level="100"/><voice required="Name=IVONA 2 Brian OEM"><rate absspeed="-4">The ideas we get by more than one sense are, of space or extension, figure, rest, and motion.<silence msec="500"/></rate></voice> 
+Idėjas mes gauname per daugiau negu vieną jausmą yrą, nuo jutimo arba tysumo, figūros, ramybės ir judėjimo.
+
+<volume level="100"/><voice required="Name=IVONA 2 Brian OEM"><rate absspeed="-4">For these make perceivable impressions, both on the eyes and touch; and we can receive and convey into our minds the ideas of the extension, figure, motion, and rest of bodies, both by seeing and feeling.<silence msec="500"/></rate></voice> 
+Juk šios daro suvokiamus įspūdžius, dvejopai ant akių ir lietimo, ir mes galime priimti ir perteikti į mūsų sielas idėjas nuo tysumo, figūros, judėjimo, ir ramybės nuo kūnų, dvejopai per matymą ir jautimą.
+
+<volume level="100"/><voice required="Name=IVONA 2 Brian OEM"><rate absspeed="-4">But having occasion to speak more at large of these in another place, I here only enumerate them.<silence msec="500"/></rate></voice>
+Bet turėdamas progą kalbėti daugiau plačiau nuo šių viduje kitos vietos, aš čia tiktai išvardinu jas.

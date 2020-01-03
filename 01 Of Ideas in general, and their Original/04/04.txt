@@ -1,0 +1,23 @@
+﻿<volume level="100"/><voice required="Name=IVONA 2 Emma OEM"><rate absspeed="-4">The operations of our minds, the other source of them.<silence msec="500"/></rate></voice> 
+Veiksmai mūsų intelektų, kitas jų šaltinis.
+
+<volume level="100"/><voice required="Name=IVONA 2 Brian OEM"><rate absspeed="-4">Secondly, the other fountain from which experience furnisheth the understanding with ideas is, the perception of the operations of our own mind within us, as it is employed about the ideas it has got; which operations, when the soul comes to reflect on and consider, do furnish the understanding with another set of ideas, which could not be had from things without.<silence msec="500"/></rate></voice> 
+Antra, kitas šaltinis iš kurio patirtis aprūpina supratimą su idėjomis yra, suvokimas operacijų mūsų nuosavo intelekto viduje mūsų, kaip jis yra pritaikytas apie idėjas jis yra gavęs; kurios operacijos, kada siela ateina reflektuoti ant ir nagrinėti, daro aprūpina supratimą su kitokiu rinkiniu idėjų, kuriuos negali būti turėjo iš daiktų išorės.
+
+<volume level="100"/><voice required="Name=IVONA 2 Brian OEM"><rate absspeed="-4">And such are perception, thinking, doubting, believing, reasoning, knowing, willing, and all the different actings of our own minds; which we being conscious of, and observing in ourselves, do from these receive into our understandings as distinct ideas as we do from bodies affecting our senses.<silence msec="500"/></rate></voice>
+Ir toks yra suvokimas, mastymas, abejojimas, tikėjimas, samprotavimas, žinojimas, norėjimas, ir visi skirtingi veikimai mūsų nuosavų intelektų; kuriuos mes būdami samoningi apie, ir stebėdami savyje, darome iš šių gauname į mūsų supratimus kaip skirtingas idėjas kaip mes darome iš kūnų veikiančių mūsų jutimus.
+
+<volume level="100"/><voice required="Name=IVONA 2 Brian OEM"><rate absspeed="-4">This source of ideas every man has wholly in himself; and though it be not sense, as having nothing to do with external objects, yet it is very like it, and might properly enough be called internal sense.<silence msec="500"/></rate></voice> 
+Šis šaltinis idėjų kiekvienas žmogus turi visiškai savyje; ir nors tai nebūti jutimas, kaip turi nieko daryti su išoriniais objektais, beto jis yra labai panašus tai, ir gali tinkamai pakankamai būti vadinamas vidiniu jutimu.
+
+<volume level="100"/><voice required="Name=IVONA 2 Brian OEM"><rate absspeed="-4">But as I call the other SENSATION, so I Call this REFLECTION, the ideas it affords being such only as the mind gets by reflecting on its own operations within itself.<silence msec="500"/></rate></voice> 
+Bet kaip aš vadinu kitą jutimu, taip aš vadinu šį refleksija, idėjos jis suteikia esančios tokios tiktai kaip intelektas gauna per reflektavimą jo nuosavų operacijų viduje savęs.
+
+<volume level="100"/><voice required="Name=IVONA 2 Brian OEM"><rate absspeed="-4">By reflection then, in the following part of this discourse, I would be understood to mean, that notice which the mind takes of its own operations, and the manner of them, by reason whereof there come to be ideas of these operations in the understanding.<silence msec="500"/></rate></voice> 
+Per refleksiją tada, tolimesnėje dalyje šio diskurso, aš norėčiau būti suprastas turiu galvoje, tą pastebėjimą kurį intelektas paima savų nuosavų veiksmų, ir būdą jų, priežastimi kuria tenais prieina būti idėjos šių operacijų supratime.
+
+<volume level="100"/><voice required="Name=IVONA 2 Brian OEM"><rate absspeed="-4">These two, I say, that is to say external material things, as the objects of SENSATION, and the operations of our own minds within, as the objects of REFLECTION, are to me the only originals from whence all our ideas take their beginnings.<silence msec="500"/></rate></voice> 
+Šios dvi, aš sakau, kad sakau išoriniai materialūs daikta, kaip objektai jutimų, ir operacijos mūsų nuosavų intelektų viduje, kaip objektai refleksijos, yra man vieniteliai originalai iš kur visos mūsų idejos ima jų prasidėjimus.
+
+<volume level="100"/><voice required="Name=IVONA 2 Brian OEM"><rate absspeed="-4">The term operations here I use in a large sense, as comprehending not barely the actions of the mind about its ideas, but some sort of passions arising sometimes from them, such as is the satisfaction or uneasiness arising from any thought.<silence msec="500"/></rate></voice>
+Terimną operacijos čia aš naudoju plačia prasme, kaip apimantį ne tiktai veiksmus intelekto apie jo idėjas, bet kažokią rūšį aistrų kylantį kartais iš jų, tokius kaip yra pasitenkinimas arba nepasitenkinimas kylantis iš betkokios minties.
