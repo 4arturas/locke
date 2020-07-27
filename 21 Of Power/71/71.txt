@@ -106,33 +106,316 @@ ir praktika, taikymas.
 and custom in most.
 ir įprotis viduje daugumos.
 
-Bread or tobacco may be neglected where they are shown to be useful to health, because of an indifferency or disrelish to them; 
-reason and consideration at first recommends, and begins their trial, and use finds, or custom makes them pleasant. 
+Bread or tobacco.
+Duona arba tabakas.
 
-That this is so in virtue too, is very certain. 
+may be neglected.
+gali būti nepaisyti.
 
-Actions are pleasing or displeasing, either in themselves, or considered as a means to a greater and more desirable end. 
+where they are shown.
+kur jie yra parodyti.
 
-The eating of a well-seasoned dish, suited to a man's palate, may move the mind by the delight itself that accompanies the eating, without reference to any other end;
-to which the consideration of the pleasure there is in health and strength (to which that meat is subservient) may add a new gusto, able to make us swallow an ill-relished potion. 
+to be useful to health.
+būti naudingi sveikatai.
 
-In the latter of these, any action is rendered more or less pleasing, only by the contemplation of the end, and the being more or less persuaded of its tendency to it, or necessary connexion with it: 
-but the pleasure of the action itself is best acquired or increased by use and practice. 
+because of an indifferency.
+kadangi nuo abejingumo.
 
-Trials often reconcile us to that, which at a distance we looked on with aversion; 
-and by repetitions wear us into a liking of what possibly, in the first essay, displeased us. 
+or disrelish to them.
+arba pasibjaurėjimo jiems.
 
-Habits have powerful charms, and put so strong attractions of easiness and pleasure into what we accustom ourselves to, that we cannot forbear to do, or at least be easy in the omission of, actions, which habitual practice has suited, and thereby recommends to us. 
+reason and consideration.
+protas ir svarstymas.
 
-Though this be very visible, and every one's experience shows him he can do so; 
-yet it is a part in the conduct of men towards their happiness, neglected to a degree, that it will be possibly entertained as a paradox, if it be said, that men can make things or actions more or less pleasing to themselves; 
-and thereby remedy that, to which one may justly impute a great deal of their wandering. 
+at first recommends.
+pirma rekomenduoja.
 
-Fashion and the common opinion having settled wrong notions, and education and custom ill habits, the just values of things are misplaced, and the palates of men corrupted. 
+and begins their trial.
+ir pradeda jų bandymą.
 
-Pains should be taken to rectify these; 
-and contrary habits change our pleasures, and give a relish to that which is necessary or conducive to our happiness. 
+and use finds.
+ir naudojimas randa.
 
-This every one must confess he can do; 
-and when happiness is lost, and misery overtakes him, he will confess he did amiss in neglecting it, and condemn himself for it; 
-and I ask every one, whether he has not often done so?
+or custom makes.
+arba paprotys gamina.
+
+them pleasant.
+juos maloniais.
+
+That this is so in virtue too.
+Kad tai yra taip viduje dorybės taip pat.
+
+is very certain.
+yra labai tikra.
+
+Actions are pleasing or displeasing.
+Veiksmai yra molonūs arba nemalonūs.
+
+either in themselves.
+arba viduje savęs.
+
+or considered as a means.
+arba apsvarstyta kaip priemonės.
+
+to a greater and more desirable end. 
+didesniam ir labiau trokštamam galui.
+
+The eating of a well-seasoned dish.
+Valgymas nuo gerai pagardinto patiekalo.
+
+suited to a man's palate.
+tinkamo  žmogaus gomuriui.
+
+may move the mind.
+gali judinti intelektą.
+
+by the delight itself.
+per malonumą patį.
+
+that accompanies the eating.
+kad lydi valgymą.
+
+without reference.
+be nuorodos.
+
+to any other end.
+į bet kurį kitą galą.
+
+to which the consideration of the pleasure.
+kuriam apsvarstymas nuo malonumo.
+
+there is in health and strength.
+ten yra viduje sveikatos ir stiprumo.
+
+to which that meat is subservient.
+kuriam kad mėsa yra pavaldi.
+
+may add a new gusto.
+gali pridėti naują malonumą.
+
+able to make us swallow.
+galintis pagaminti mus praryti.
+
+an ill-relished potion.
+ligotai paskanintą mikstūrą.
+
+In the latter of these.
+Viduje vėlesnių nuo tų.
+
+any action is rendered.
+bet kuris veiksmas yra perteiktas.
+
+more or less pleasing.
+daugiau arba mažiau malonus.
+
+only by the contemplation of the end.
+tik per kontempliaciją nuo galo.
+
+and the being more or less.
+ir būsiantis daugiau arba mažiau.
+
+persuaded of its.
+įtikintas nuo jo.
+
+tendency to it.
+tendencijos į tai.
+
+or necessary connexion with it.
+arba būtiną ryšį su tai.
+
+
+but the pleasure of the action itself.
+bet malonumas nuo veiksmo pačio.
+
+is best acquired or increased.
+yra geriausiai įgytas arba padidintas.
+
+by use and practice.
+per naudojimą ir praktiką.
+
+Trials often reconcile us to that.
+Bandymai dažnai sutaiko mus su tuo.
+
+which at a distance.
+kuris atstumu.
+
+we looked on with aversion.
+mes žvelgėme ant su pasibjaurėjimu.
+
+and by repetitions.
+ir per kartojimus.
+
+wear us into a liking.
+dėvėjo mus į mėgimą.
+
+of what possibly.
+nuo kas galimai.
+
+in the first essay.
+viduje pirmos esė.
+
+displeased us.
+nepatenkino mus.
+
+Habits have powerful charms.
+Įpročiai turi galingus kerus.
+
+and put so strong attractions.
+ir uždeda tokius stiprus patrauklumus.
+
+of easiness and pleasure.
+nuo lengvumo ir malonumo.
+
+into what we accustom ourselves to.
+į kas mes pripratinome save į.
+
+that we cannot forbear to do.
+kad mes negalime susilaikyti daryti.
+
+or at least be easy.
+arba mažiausiai būti lengva.
+
+in the omission of, actions.
+viduje praleidimo nuo, veiksmų.
+
+which habitual practice.
+su įprastine praktika.
+
+has suited.
+turi tinkama.
+
+and thereby.
+ir tuo būdu.
+
+recommends to us.
+rekomendavo mums.
+
+Though this be very visible.
+Nors tai būti labai matoma.
+
+and every one's experience.
+ir kiekvieno vieno patirtis.
+
+shows him.
+rodo jam.
+
+he can do so.
+jis gali daryti taip.
+ 
+yet it is a part.
+vis dėl to tai yra dalis.
+
+in the conduct of men.
+viduje elgsenos nuo žmonių.
+
+towards their happiness.
+link jų laimės.
+
+neglected to a degree.
+nepaisyta laipsniui.
+
+that it will be possibly.
+kad tai bus būti galimai.
+
+entertained as a paradox.
+smaginosi kaip paradoksas.
+
+if it be said.
+jeigu tai bus sakyta.
+
+that men can make things.
+kad žmonės gali gaminti daiktus.
+
+or actions.
+arba veiksmus.
+
+more or less pleasing to themselves.
+daugiau arba mažiau maloniais jiems.
+
+
+and thereby remedy that.
+ir tuo būdu vaistas kad.
+
+to which one may justly impute.
+kuriam vienas gali teisingai primesti.
+
+a great deal.
+didelį sanderį.
+
+of their wandering. 
+nuo jų klajojimo.
+
+Fashion and the common opinion.
+Mada ir bendra nuomonė.
+
+having settled wrong notions.
+turinti įkurdinusi neteisingas sąvokas.
+
+and education and custom.
+ir lavinimas ir paprotys.
+
+ill habits.
+ligotus įpročius.
+
+the just values of things.
+teisingos vertės nuo daiktų.
+
+are misplaced.
+yra nevietoje.
+
+and the palates of men corrupted.
+ir gomuriai nuo žmonių korumpuoti.
+
+Pains should be taken.
+Skausmai turėtų būti paimti.
+
+to rectify these.
+ištaisyti šiuos.
+
+and contrary habits.
+ir priešingi įpročiai.
+
+change our pleasures.
+pakeičia mūsų malonumus.
+
+and give a relish.
+ir duoda pasigardžiavimą.
+
+to that which is necessary.
+tam kuris yra būtinas.
+
+or conducive to our happiness.
+arba palankus mūsų laimei.
+
+This every one must confess.
+Šis kiekvienas vienas privalo prisipažinti
+
+he can do.
+jis gali daryti.
+
+and when happiness is lost.
+ir kada laimė yra pamesta.
+
+and misery overtakes him.
+ir kančia apima jį.
+
+he will confess.
+jis pripažins.
+
+he did amiss.
+jis darė blogai.
+
+in neglecting it.
+viduje nepaisymo tai.
+
+and condemn himself for it.
+ir pasmerkia save dėl tai.
+
+and I ask every one.
+ir aš klausiu kiekvieno vieno.
+
+whether he has not.
+ar jis turi ne.
+
+often done so?
+dažnai daręs taip.
